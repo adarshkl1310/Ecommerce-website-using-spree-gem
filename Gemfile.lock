@@ -1079,9 +1079,6 @@ GEM
       jquery-rails (~> 4.3)
       spree_api (= 3.7.3)
       spree_core (= 3.7.3)
-    spree_gateway (3.4.1)
-      spree_core (>= 3.1.0, < 4.0)
-      spree_extension
     spree_sample (3.7.3)
       spree_core (= 3.7.3)
     spring (2.1.0)
@@ -1156,7 +1153,6 @@ DEPENDENCIES
   selenium-webdriver
   spree (~> 3.7.0)
   spree_auth_devise (~> 3.5)
-  spree_gateway (~> 3.4)
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)

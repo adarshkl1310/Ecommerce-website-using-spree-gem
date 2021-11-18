@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'spree', '~> 3.7.0'
-gem 'spree_auth_devise', '~> 3.3'
+gem 'spree_auth_devise', '~> 4.0'
 gem 'spree_gateway', '~> 3.4'
 
 # Use ActiveStorage variant
